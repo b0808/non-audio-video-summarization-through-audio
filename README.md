@@ -43,7 +43,7 @@ pip install torch torchvision transformers gtts streamlit opencv-python-headless
 ```
 ### Step 3: Dataset Preparation
 Download the MSR-VTT Dataset
-Access the dataset from the official website or download through kaggle 
+Access the dataset from the official website or download through kaggle [MSRVTT](https://https://www.kaggle.com/datasets/vishnutheepb/msrvtt)
 ```bash
 pip install torch torchvision transformers gtts streamlit opencv-python-headless
 ```
@@ -66,7 +66,12 @@ python fork-of-train (2).py
 ### Kaggle Integration
 Prefer running the project on Kaggle? Use these notebooks:
 Prepare the dataset for training by running
-Upload your dataset to Kaggle and run the code in the respective notebooks.
+Check out the [Train Notebook](https://www.kaggle.com/code/bhaveshsandbhor/fork-of-train)
+Check out the [Preprocessing Notebook](https://www.kaggle.com/code/bhaveshsandbhor/preprocess) 
+Check out the [Feature Extraction Script](https://www.kaggle.com/code/bhaveshsandbhor/extract-features)
+Check out the [Configuration File](https://www.kaggle.com/code/bhaveshsandbhor/config) 
+dataset are integrated with notebook
+Upload notebook to Kaggle and run the code in the respective notebooks.
 
 ###  Using the Interface
 ```bash
