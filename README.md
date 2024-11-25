@@ -75,11 +75,11 @@ Upload notebook to Kaggle and run the code in the respective notebooks.
 
 ###  Using the Interface
 ```bash
-streamlit run app.py
+streamlit run steremlite.py
 ```
 Steps:
 1 Upload a video file.
 2 View the generated caption.
-3 Play the audio summary directly in the app.
+3 Play the audio summary directly in the web-app.
 ### Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions or improvements.
